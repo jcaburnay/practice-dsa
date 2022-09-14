@@ -1,0 +1,243 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "beautifulTriplets",
+            "program": "${workspaceFolder}/beautifulTriplets.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "anagram",
+            "program": "${workspaceFolder}/anagram.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/beautifulBinaryString.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/palindromeIndex.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/caeserCipher.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "makingAnagrams",
+            "program": "${workspaceFolder}/makingAnagrams.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Hackerrank In String",
+            "program": "${workspaceFolder}/hackerrankInString.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "gridChallenge",
+            "program": "${workspaceFolder}/gridChallenge.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/toys.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/closestNumbers.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/cutTheSticks.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/superReducedString.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/maxMin.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/insertionSort1.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/maximumToys.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/chocolateFeast.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/flippingBits.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/minimumLoss.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/superDigit.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "jumpingOnClouds",
+            "program": "${workspaceFolder}/jumpingOnClouds.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/viralAdvertising.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/timeInWords.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/dayOfProgrammer.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/drawingBook.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/electronicsShop.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/getTotalX.js"
+        }
+    ]
+}
